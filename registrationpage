@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title> Registration page</title>
+            <body bgcolor="lightskyblue"></body><br>
+<p align="right"><b> Date:</b></p>
+<h2>Registration page</h2>
+<h3>Create an Account</h3>
+<hr>
+<p> All the information need to fill.</p>
+<table>
+    <tr>
+        <td>user name</td>
+        <td><input type="text" name="userid"placeholder="username"</td>
+        <tr>
+            <td> password</td>
+            <td><input type="text" name="password" placeholder="password"/></td>
+        </tr>
+        <tr>
+            <td>retype password</td>
+            <td><input type= "text" name="retype password"/></td>
+        </tr>
+        <tr>
+            <td>first name</td>
+            <td><input type="text" name="Fname"/></td>
+        </tr>
+        <tr>
+            <td>last name</td>
+            <td><input type="text" name="lastname"placeholder="last name"</td>
+        </tr>
+        
+        
+    <tr>
+        
+        <td><button type="submit"/>Submit</button></td>
+    </tr>
+        <tr>
+            
+            <td><button type="reset"/>reset</button></td>
+        </tr>
+</table>
+            </body>
+        </title>
+    </head>
+</html>

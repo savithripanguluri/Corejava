@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Login page</title>
+  </head>	
+  <body bgcolor="pink">
+    <center> <h1> Login page</h1></center> <br><br>
+    <from> <center>
+    <lable>User Name</lable>
+<input type="text"><br>
+     <lable> Password</lable><br>
+<input type="text"><br />
+     <lable> Email Address</lable><br>
+<input type="text"><br />
+<button type= "submit"   style="background-color:green"> Login</button>
+<button type="reset"  style="background-color:red"> reset</button><br>
+</center></form>
+</body>
+</html> 
+
+  
+
